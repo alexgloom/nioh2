@@ -1,0 +1,15 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "Handcannon",
+        "Kusarigama",
+        "matplotlib",
+        "Odachi",
+        "pyplot",
+        "Splitstaff",
+        "Switchglaive",
+        "Tachi",
+        "Tonfa"
+    ]
+}
